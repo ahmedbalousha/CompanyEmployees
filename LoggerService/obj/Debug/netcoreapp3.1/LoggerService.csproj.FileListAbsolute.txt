@@ -1,0 +1,15 @@
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

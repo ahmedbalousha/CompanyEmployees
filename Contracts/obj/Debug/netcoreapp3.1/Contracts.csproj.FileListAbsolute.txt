@@ -1,0 +1,13 @@
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ahmedbalousha\source\repos\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
