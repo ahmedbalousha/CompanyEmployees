@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {}
+    "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Contracts\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ahmed Balousha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed Balousha\\Source\\Repos\\CompanyEmployees\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed Balousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -52,33 +49,45 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Ahmed Balousha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed Balousha\\Source\\Repos\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed Balousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -131,33 +140,45 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+    "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Ahmed Balousha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed Balousha\\Source\\Repos\\CompanyEmployees\\Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed Balousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -171,11 +192,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ahmed Balousha\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -215,16 +236,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
